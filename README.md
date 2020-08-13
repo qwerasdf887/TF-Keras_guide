@@ -9,3 +9,4 @@
 * [Ch2](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch2.ipynb) - 模型的訓練-model.fit()  
 * [Ch3](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch3.ipynb) - Keras輸入資料的方法-Sequence類  
 * [Ch4](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch4.ipynb) - Keras訓練model的方法-TF.GradientTape()  
+* [Ch5](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch5.ipynb) - Keras輔助工具-callbacks
