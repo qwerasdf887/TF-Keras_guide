@@ -1,7 +1,7 @@
 # TF-Keras_guide  
 由於Tensorflow已經更新到2.多版本，加上Keras中文的官方網站有些已經過舊。  
 所以，根據自己所學以及[TensorFlow官方文檔](https://www.tensorflow.org/overview)以及[Keras官方文檔](https://keras.io/)進行簡單總結。  
-主要專注在Keras的使用方法上，一些相關基礎理論就沒寫入。 
+主要專注在Keras的使用方法上，一些相關基礎理論就沒寫入。  
 因為工作關係，將不定期更新，若有一些錯誤請不吝指正。  
 
 # Chapter
