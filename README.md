@@ -12,3 +12,8 @@
 * [Ch5](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch5.ipynb) - Keras輔助工具-callbacks
 * [Ch6](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch6.ipynb) - Keras custom-Loss function
 * [Ch7](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch7.ipynb) - Keras custom-custom layer
+* [Ch8](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch8.ipynb) - Keras custom-Model subclassing
+* [Ch9](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch9.ipynb) - Keras custom-train_step 用法
+* [Ch10](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch10.ipynb) - Keras custom-tf.data 基礎用法
+* [Ch11](https://github.com/qwerasdf887/TF-Keras_guide/blob/master/keras_ch11.ipynb) - Keras custom-tf.data與Sequence比較
+
